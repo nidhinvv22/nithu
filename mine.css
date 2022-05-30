@@ -1,0 +1,14 @@
+body{
+    background-color: #00FFAB;
+}
+.container-fluid
+{
+    -bs-gutter-x: 0rem;
+}
+a{
+    color:black;
+    position: absolute;
+  right: 0px;
+  width: 300px;
+   padding: 10px;
+}
